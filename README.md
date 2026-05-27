@@ -1,2 +1,18 @@
-# python-datascience-learning
-This repo consist of all my progress in learning data science.
+# Python Data Science Learning
+
+This repository contains my hands-on learning and practice in:
+
+- NumPy
+- Pandas
+- Matplotlib
+- Data Analysis
+- Machine Learning (upcoming)
+- PyTorch (upcoming)
+
+## Repository Structure
+
+```txt
+numpy/
+pandas/
+matplotlib/
+dataset/
