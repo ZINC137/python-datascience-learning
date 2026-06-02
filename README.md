@@ -16,4 +16,5 @@ This repository contains my hands-on learning and practice in:
 numpy/
 pandas/
 matplotlib/
+seaborn/
 dataset/
