@@ -5,6 +5,7 @@ This repository contains my hands-on learning and practice in:
 - NumPy
 - Pandas
 - Matplotlib
+- seaborn
 - Data Analysis
 - Machine Learning (upcoming)
 - PyTorch (upcoming)
